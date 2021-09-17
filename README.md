@@ -4,8 +4,6 @@ I’m currently learning C++, Python and C#.
 
 # My Certificates:
 
-![]("image.png")
-
 
 
 <!---

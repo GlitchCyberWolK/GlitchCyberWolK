@@ -1,6 +1,5 @@
 
-I’m interested in blockchain, software, cryptography, AI, ML.
-I’m currently learning C++, Python and C#.
+
 
 
 <!---
